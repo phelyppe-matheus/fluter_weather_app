@@ -1,0 +1,129 @@
+{
+    "region": "Teresina, State of Piauí, Brazil",
+    "currentConditions": {
+        "dayhour": "Monday 2:00 PM",
+        "temp": {
+            "c": 32,
+            "f": 89
+        },
+        "precip": "0%",
+        "humidity": "47%",
+        "wind": {
+            "km": 13,
+            "mile": 8
+        },
+        "iconURL": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "comment": "Partly cloudy"
+    },
+    "next_days": [
+        {
+            "day": "Monday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 32,
+                "f": 90
+            },
+            "min_temp": {
+                "c": 24,
+                "f": 75
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Tuesday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 32,
+                "f": 90
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 73
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Wednesday",
+            "comment": "Mostly sunny",
+            "max_temp": {
+                "c": 33,
+                "f": 92
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Thursday",
+            "comment": "Mostly sunny",
+            "max_temp": {
+                "c": 34,
+                "f": 94
+            },
+            "min_temp": {
+                "c": 24,
+                "f": 76
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Friday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 33,
+                "f": 92
+            },
+            "min_temp": {
+                "c": 24,
+                "f": 76
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Saturday",
+            "comment": "Partly cloudy",
+            "max_temp": {
+                "c": 34,
+                "f": 93
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Sunday",
+            "comment": "Mostly sunny",
+            "max_temp": {
+                "c": 34,
+                "f": 94
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        },
+        {
+            "day": "Monday",
+            "comment": "Mostly sunny",
+            "max_temp": {
+                "c": 35,
+                "f": 95
+            },
+            "min_temp": {
+                "c": 23,
+                "f": 74
+            },
+            "iconURL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+        }
+    ],
+    "contact_author": {
+        "email": "communication.with.users@gmail.com",
+        "auth_note": "Mail me for feature requests, improvement, bug, help, ect... Please tell me if you want me to provide any other free easy-to-use API services"
+    },
+    "data_source": "https://www.google.com/search?lr=lang_en&q=weather+in+teresina"
+}
